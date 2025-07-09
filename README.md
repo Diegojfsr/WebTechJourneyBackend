@@ -1,6 +1,5 @@
 # WebTech Journey - Backend - 2025-01
 
-![image.png](https://images.sympla.com.br/6852d70fec38f.png)
 
 Sejam bem-vindos à Journey Back End - LEVTY e WebTech Network
 
@@ -45,7 +44,6 @@ Link para acesso à equipe de suporte e aos ambientes para troca de idéias.
 
 - Finalizar o processo significa ser selecionado para a LEVTY?  
     Não necessariamente. A seleção direta só acontece para participantes das cidades de Viçosa, Lavras, Belo Horizonte, Itajubá e Juiz de Fora, ou que tenham disponibilidade para se mudar. No entanto, concluir a jornada abre portas para um processo seletivo mais simplificado dentro da [LEVTYLinks para um site externo.](https://www.levty.com/br), com chances reais de fazer parte do time futuramente.
-
 
 
 
